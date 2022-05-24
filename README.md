@@ -18,6 +18,8 @@ I'm Sara and I'm currently studying for a masters in Software Engineering at Umi
 * Haskell
 * mySQL
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=haz145&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=gruvbox)![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haz145&layout=compact&langs_count=10&theme=gruvbox&hide=vim,Makefile)
+
 ## Interests
 
 Currently focusing on Web Development and Natural Language Processing applications.
