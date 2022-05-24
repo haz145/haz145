@@ -1,4 +1,26 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Sara and I'm currently studying for a masters in Software Engineering at Uminho. <br/>
+
+## Projects
+
+[RPCW Project and Homework developed during the semester](https://github.com/haz145/RPCW2022)
+[NewsBook - LI4 Project](https://github.com/chelesgaroth/NewsBook-Project)
+[Delivery Service - OOP Project](https://github.com/benjamimcoelho/Trabalho-POO)
+
+## Languages
+
+* Python
+* Java
+* C/C++
+* C#
+* Javascript
+* Haskell
+* mySQL
+
+## Interests
+
+Currently focusing on Web Development and Natural Language Processing applications.
 
 <!--
 **haz145/haz145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
