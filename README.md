@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sara and I'm currently studying for a masters in Software Engineering at Uminho. <br/>
+I'm Sara and I'm currently studying for a masters in Software Engineering at Uminho <br/>
 
 ## Projects
 
@@ -14,13 +14,12 @@ I'm Sara and I'm currently studying for a masters in Software Engineering at Umi
 * Java
 * C/C++
 * C#
-* Javascript
+* Javascript/Typescript
 * Haskell
-* mySQL
 
 ## Interests
 
-Currently focusing on Web Development and Natural Language Processing applications.
+Currently focusing on Web Development and Natural Language Processing applications
 
 <!--
 **haz145/haz145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
