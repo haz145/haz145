@@ -4,17 +4,18 @@ I'm Sara and I'm currently studying for a masters in Software Engineering at Umi
 
 ## Projects
 
+[Pilot - 5th Year Project](https://gitlab.com/pei7/frontendpei) <br/>
 [File Repository - RPCW Project](https://github.com/haz145/RPCW2022/tree/main/Projeto) <br/>
 [NewsBook - LI4 Project](https://github.com/chelesgaroth/NewsBook-Project) <br/>
 [Delivery Service - OOP Project](https://github.com/benjamimcoelho/Trabalho-POO) <br/>
 
 ## Languages
 
+* Javascript/Typescript
 * Python
 * Java
 * C/C++
 * C#
-* Javascript/Typescript
 * Haskell
 
 ## Interests
