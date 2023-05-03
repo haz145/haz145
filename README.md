@@ -4,10 +4,10 @@ I'm Sara and I'm currently studying for a masters in Software Engineering at Umi
 
 ## Projects
 
-[Pilot - 5th Year Project](https://gitlab.com/pei7/frontendpei) <br/>
+[Clube Rainbow Page](https://cluberainbow.github.io/) - Work in Progress! <br/>
+[Pilot Careers - 5th Year Project](https://gitlab.com/pei7/frontendpei) <br/>
 [File Repository - RPCW Project](https://github.com/haz145/RPCW2022/tree/main/Projeto) <br/>
 [NewsBook - LI4 Project](https://github.com/chelesgaroth/NewsBook-Project) <br/>
-[Delivery Service - OOP Project](https://github.com/benjamimcoelho/Trabalho-POO) <br/>
 
 ## Languages
 
@@ -20,7 +20,7 @@ I'm Sara and I'm currently studying for a masters in Software Engineering at Umi
 
 ## Interests
 
-Currently focusing on Web Development and Natural Language Processing applications
+Currently focusing on Web Development! ✨
 
 <!--
 **haz145/haz145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
