@@ -12,14 +12,14 @@ Although it is still in development, it can already be visited here: <br/> [pron
 
 ## Projects
 
-#### Current Projects ✨
+### Current Projects ✨
 
 **Note:** These projects are still works in progress!
 
 [PrOnto](https://cluberainbow.github.io/) <br/>
 [Clube Rainbow Page](https://cluberainbow.github.io/) <br/>
 
-#### Old Project Repos 📦
+### Old Project Repos 📦
 
 [Pilot Careers - 5th Year Project](https://gitlab.com/pei7/frontendpei) <br/>
 [File Repository - RPCW Project](https://github.com/haz145/RPCW2022/tree/main/Projeto) <br/>
