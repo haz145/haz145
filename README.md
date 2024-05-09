@@ -8,7 +8,7 @@ I have an interest in web development and am always looking to learn more about 
 
 I'm currently working on my thesis project, a platform for visualizing and navigating OntoDL+ ontologies.
 
-Although it is still in development, it can already be visited here: <br/> [pronto-computationalthinking4all.epl.di.uminho.pt](http://pronto-computationalthinking4all.epl.di.uminho.pt/)
+Although it is still in development, it can already be visited here: <br/> [pronto-computationalthinking4all.epl.di.uminho.pt](https://pronto-computationalthinking4all.epl.di.uminho.pt/)
 
 ## Projects
 
@@ -16,7 +16,7 @@ Although it is still in development, it can already be visited here: <br/> [pron
 
 **Note:** These projects are still works in progress!
 
-[PrOnto](https://cluberainbow.github.io/) <br/>
+[PrOnto](https://pronto-computationalthinking4all.epl.di.uminho.pt/) <br/>
 [Clube Rainbow Page](https://cluberainbow.github.io/) <br/>
 
 ### Old Project Repos 📦
