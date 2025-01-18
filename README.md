@@ -2,13 +2,13 @@
 
 Hi! I'm Ezra and I'm studying for a masters in Software Engineering at UMinho. 
 
-I have an interest in web development (with a preference for frontend work) and I am looking to expand my skills in this field :)
+I have an interest in web development (with a preference for frontend work) and I'm looking to expand my skills in this field :)
 
 ## What I'm working on
 
 I'm currently working on my thesis project, a platform for visualizing and navigating OntoDL+ ontologies.
 
-More information about this project is available here: [epl.di.uminho.pt/~gepl/pronto](https://epl.di.uminho.pt/~gepl/pronto/)
+More information about this project is available here: <br/> [epl.di.uminho.pt/~gepl/pronto](https://epl.di.uminho.pt/~gepl/pronto/)
 
 The platform itself is available here: <br/> [pronto-computationalthinking4all.epl.di.uminho.pt](https://pronto-computationalthinking4all.epl.di.uminho.pt/)
 
